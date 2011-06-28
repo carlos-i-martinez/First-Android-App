@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyGreatApp!</string>
+    <string name="app_name">My Great App</string>
+    <string name="awesome">This is so easy, I can program all day baby!!</string>
+    <string name="quote">DO WORK SON!!</string>
+</resources>
